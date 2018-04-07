@@ -4,5 +4,6 @@ Custom Html element with svg in shadow and color attribute which changes color o
 It was created just for me to hang of creating custom element with attributes.
 
 I used a node http server to host my files.
-I got the server.js from [adrianmejia.com](http://adrianmejia.com/blog/2016/08/24/Building-a-Node-js-static-file-server-files-over-HTTP-using-ES6/)
-Got the android svg from [dev.w3](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/android.svg)
+I got the server.js from [adrianmejia.com](http://adrianmejia.com/blog/2016/08/24/Building-a-Node-js-static-file-server-files-over-HTTP-using-ES6/).
+
+I got the android svg from [dev.w3](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/android.svg)
